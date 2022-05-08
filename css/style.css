@@ -13,7 +13,7 @@
 #title {
   font-size: 8rem;
   display: block;
-  animation: plateAnimation 100s linear;
+  animation: plateAnimation 10s linear;
 }
 
 #btn-toggle {
